@@ -1,0 +1,901 @@
+date,product_name,category,day_of_week,is_weekend,promo,price,units_sold
+2026-01-28,Sanduche de pollo,Sanduches,2,0,0,3.5,12
+2026-01-28,Sanduche mixto,Sanduches,2,0,0,3.25,13
+2026-01-28,Sanduche de jamón,Sanduches,2,0,0,3.0,11
+2026-01-28,Sanduche de atún,Sanduches,2,0,0,3.75,10
+2026-01-28,Sanduche vegetariano,Sanduches,2,0,0,3.2,6
+2026-01-28,Cheesecake,Postres,2,0,0,2.8,6
+2026-01-28,Brownie,Postres,2,0,0,2.2,8
+2026-01-28,Tarta de chocolate,Postres,2,0,0,3.0,6
+2026-01-28,Tres leches,Postres,2,0,0,2.75,1
+2026-01-28,Galleta rellena,Postres,2,0,0,1.8,13
+2026-01-29,Sanduche de pollo,Sanduches,3,0,0,3.5,12
+2026-01-29,Sanduche mixto,Sanduches,3,0,0,3.25,13
+2026-01-29,Sanduche de jamón,Sanduches,3,0,0,3.0,8
+2026-01-29,Sanduche de atún,Sanduches,3,0,0,3.75,5
+2026-01-29,Sanduche vegetariano,Sanduches,3,0,0,3.2,10
+2026-01-29,Cheesecake,Postres,3,0,0,2.8,7
+2026-01-29,Brownie,Postres,3,0,0,2.2,9
+2026-01-29,Tarta de chocolate,Postres,3,0,0,3.0,5
+2026-01-29,Tres leches,Postres,3,0,0,2.75,5
+2026-01-29,Galleta rellena,Postres,3,0,0,1.8,11
+2026-01-30,Sanduche de pollo,Sanduches,4,0,0,3.5,13
+2026-01-30,Sanduche mixto,Sanduches,4,0,0,3.25,14
+2026-01-30,Sanduche de jamón,Sanduches,4,0,0,3.0,11
+2026-01-30,Sanduche de atún,Sanduches,4,0,0,3.75,7
+2026-01-30,Sanduche vegetariano,Sanduches,4,0,0,3.2,5
+2026-01-30,Cheesecake,Postres,4,0,0,2.8,7
+2026-01-30,Brownie,Postres,4,0,0,2.2,8
+2026-01-30,Tarta de chocolate,Postres,4,0,0,3.0,8
+2026-01-30,Tres leches,Postres,4,0,0,2.75,6
+2026-01-30,Galleta rellena,Postres,4,0,0,1.8,12
+2026-01-31,Sanduche de pollo,Sanduches,5,1,0,3.5,11
+2026-01-31,Sanduche mixto,Sanduches,5,1,0,3.25,5
+2026-01-31,Sanduche de jamón,Sanduches,5,1,0,3.0,4
+2026-01-31,Sanduche de atún,Sanduches,5,1,0,3.75,5
+2026-01-31,Sanduche vegetariano,Sanduches,5,1,0,3.2,5
+2026-01-31,Cheesecake,Postres,5,1,0,2.8,9
+2026-01-31,Brownie,Postres,5,1,0,2.2,11
+2026-01-31,Tarta de chocolate,Postres,5,1,0,3.0,9
+2026-01-31,Tres leches,Postres,5,1,0,2.75,5
+2026-01-31,Galleta rellena,Postres,5,1,0,1.8,12
+2026-02-01,Sanduche de pollo,Sanduches,6,1,1,3.5,13
+2026-02-01,Sanduche mixto,Sanduches,6,1,1,3.25,11
+2026-02-01,Sanduche de jamón,Sanduches,6,1,1,3.0,6
+2026-02-01,Sanduche de atún,Sanduches,6,1,1,3.75,5
+2026-02-01,Sanduche vegetariano,Sanduches,6,1,1,3.2,3
+2026-02-01,Cheesecake,Postres,6,1,1,2.8,9
+2026-02-01,Brownie,Postres,6,1,1,2.2,15
+2026-02-01,Tarta de chocolate,Postres,6,1,1,3.0,11
+2026-02-01,Tres leches,Postres,6,1,1,2.75,10
+2026-02-01,Galleta rellena,Postres,6,1,1,1.8,15
+2026-02-02,Sanduche de pollo,Sanduches,0,0,0,3.5,15
+2026-02-02,Sanduche mixto,Sanduches,0,0,0,3.25,14
+2026-02-02,Sanduche de jamón,Sanduches,0,0,0,3.0,9
+2026-02-02,Sanduche de atún,Sanduches,0,0,0,3.75,8
+2026-02-02,Sanduche vegetariano,Sanduches,0,0,0,3.2,5
+2026-02-02,Cheesecake,Postres,0,0,0,2.8,5
+2026-02-02,Brownie,Postres,0,0,0,2.2,11
+2026-02-02,Tarta de chocolate,Postres,0,0,0,3.0,11
+2026-02-02,Tres leches,Postres,0,0,0,2.75,6
+2026-02-02,Galleta rellena,Postres,0,0,0,1.8,13
+2026-02-03,Sanduche de pollo,Sanduches,1,0,0,3.5,16
+2026-02-03,Sanduche mixto,Sanduches,1,0,0,3.25,14
+2026-02-03,Sanduche de jamón,Sanduches,1,0,0,3.0,13
+2026-02-03,Sanduche de atún,Sanduches,1,0,0,3.75,9
+2026-02-03,Sanduche vegetariano,Sanduches,1,0,0,3.2,14
+2026-02-03,Cheesecake,Postres,1,0,0,2.8,5
+2026-02-03,Brownie,Postres,1,0,0,2.2,8
+2026-02-03,Tarta de chocolate,Postres,1,0,0,3.0,8
+2026-02-03,Tres leches,Postres,1,0,0,2.75,3
+2026-02-03,Galleta rellena,Postres,1,0,0,1.8,13
+2026-02-04,Sanduche de pollo,Sanduches,2,0,0,3.5,14
+2026-02-04,Sanduche mixto,Sanduches,2,0,0,3.25,13
+2026-02-04,Sanduche de jamón,Sanduches,2,0,0,3.0,13
+2026-02-04,Sanduche de atún,Sanduches,2,0,0,3.75,7
+2026-02-04,Sanduche vegetariano,Sanduches,2,0,0,3.2,5
+2026-02-04,Cheesecake,Postres,2,0,0,2.8,6
+2026-02-04,Brownie,Postres,2,0,0,2.2,11
+2026-02-04,Tarta de chocolate,Postres,2,0,0,3.0,9
+2026-02-04,Tres leches,Postres,2,0,0,2.75,5
+2026-02-04,Galleta rellena,Postres,2,0,0,1.8,12
+2026-02-05,Sanduche de pollo,Sanduches,3,0,1,3.5,15
+2026-02-05,Sanduche mixto,Sanduches,3,0,1,3.25,12
+2026-02-05,Sanduche de jamón,Sanduches,3,0,1,3.0,12
+2026-02-05,Sanduche de atún,Sanduches,3,0,1,3.75,12
+2026-02-05,Sanduche vegetariano,Sanduches,3,0,1,3.2,7
+2026-02-05,Cheesecake,Postres,3,0,1,2.8,9
+2026-02-05,Brownie,Postres,3,0,1,2.2,14
+2026-02-05,Tarta de chocolate,Postres,3,0,1,3.0,10
+2026-02-05,Tres leches,Postres,3,0,1,2.75,8
+2026-02-05,Galleta rellena,Postres,3,0,1,1.8,11
+2026-02-06,Sanduche de pollo,Sanduches,4,0,0,3.5,14
+2026-02-06,Sanduche mixto,Sanduches,4,0,0,3.25,12
+2026-02-06,Sanduche de jamón,Sanduches,4,0,0,3.0,12
+2026-02-06,Sanduche de atún,Sanduches,4,0,0,3.75,6
+2026-02-06,Sanduche vegetariano,Sanduches,4,0,0,3.2,5
+2026-02-06,Cheesecake,Postres,4,0,0,2.8,8
+2026-02-06,Brownie,Postres,4,0,0,2.2,9
+2026-02-06,Tarta de chocolate,Postres,4,0,0,3.0,9
+2026-02-06,Tres leches,Postres,4,0,0,2.75,6
+2026-02-06,Galleta rellena,Postres,4,0,0,1.8,11
+2026-02-07,Sanduche de pollo,Sanduches,5,1,0,3.5,12
+2026-02-07,Sanduche mixto,Sanduches,5,1,0,3.25,13
+2026-02-07,Sanduche de jamón,Sanduches,5,1,0,3.0,11
+2026-02-07,Sanduche de atún,Sanduches,5,1,0,3.75,1
+2026-02-07,Sanduche vegetariano,Sanduches,5,1,0,3.2,2
+2026-02-07,Cheesecake,Postres,5,1,0,2.8,9
+2026-02-07,Brownie,Postres,5,1,0,2.2,8
+2026-02-07,Tarta de chocolate,Postres,5,1,0,3.0,9
+2026-02-07,Tres leches,Postres,5,1,0,2.75,8
+2026-02-07,Galleta rellena,Postres,5,1,0,1.8,16
+2026-02-08,Sanduche de pollo,Sanduches,6,1,1,3.5,11
+2026-02-08,Sanduche mixto,Sanduches,6,1,1,3.25,10
+2026-02-08,Sanduche de jamón,Sanduches,6,1,1,3.0,6
+2026-02-08,Sanduche de atún,Sanduches,6,1,1,3.75,5
+2026-02-08,Sanduche vegetariano,Sanduches,6,1,1,3.2,10
+2026-02-08,Cheesecake,Postres,6,1,1,2.8,14
+2026-02-08,Brownie,Postres,6,1,1,2.2,10
+2026-02-08,Tarta de chocolate,Postres,6,1,1,3.0,13
+2026-02-08,Tres leches,Postres,6,1,1,2.75,7
+2026-02-08,Galleta rellena,Postres,6,1,1,1.8,18
+2026-02-09,Sanduche de pollo,Sanduches,0,0,1,3.5,15
+2026-02-09,Sanduche mixto,Sanduches,0,0,1,3.25,14
+2026-02-09,Sanduche de jamón,Sanduches,0,0,1,3.0,12
+2026-02-09,Sanduche de atún,Sanduches,0,0,1,3.75,11
+2026-02-09,Sanduche vegetariano,Sanduches,0,0,1,3.2,5
+2026-02-09,Cheesecake,Postres,0,0,1,2.8,8
+2026-02-09,Brownie,Postres,0,0,1,2.2,8
+2026-02-09,Tarta de chocolate,Postres,0,0,1,3.0,13
+2026-02-09,Tres leches,Postres,0,0,1,2.75,10
+2026-02-09,Galleta rellena,Postres,0,0,1,1.8,14
+2026-02-10,Sanduche de pollo,Sanduches,1,0,1,3.5,19
+2026-02-10,Sanduche mixto,Sanduches,1,0,1,3.25,18
+2026-02-10,Sanduche de jamón,Sanduches,1,0,1,3.0,11
+2026-02-10,Sanduche de atún,Sanduches,1,0,1,3.75,8
+2026-02-10,Sanduche vegetariano,Sanduches,1,0,1,3.2,8
+2026-02-10,Cheesecake,Postres,1,0,1,2.8,9
+2026-02-10,Brownie,Postres,1,0,1,2.2,7
+2026-02-10,Tarta de chocolate,Postres,1,0,1,3.0,11
+2026-02-10,Tres leches,Postres,1,0,1,2.75,11
+2026-02-10,Galleta rellena,Postres,1,0,1,1.8,18
+2026-02-11,Sanduche de pollo,Sanduches,2,0,0,3.5,12
+2026-02-11,Sanduche mixto,Sanduches,2,0,0,3.25,10
+2026-02-11,Sanduche de jamón,Sanduches,2,0,0,3.0,10
+2026-02-11,Sanduche de atún,Sanduches,2,0,0,3.75,9
+2026-02-11,Sanduche vegetariano,Sanduches,2,0,0,3.2,8
+2026-02-11,Cheesecake,Postres,2,0,0,2.8,9
+2026-02-11,Brownie,Postres,2,0,0,2.2,9
+2026-02-11,Tarta de chocolate,Postres,2,0,0,3.0,11
+2026-02-11,Tres leches,Postres,2,0,0,2.75,5
+2026-02-11,Galleta rellena,Postres,2,0,0,1.8,16
+2026-02-12,Sanduche de pollo,Sanduches,3,0,0,3.5,12
+2026-02-12,Sanduche mixto,Sanduches,3,0,0,3.25,14
+2026-02-12,Sanduche de jamón,Sanduches,3,0,0,3.0,10
+2026-02-12,Sanduche de atún,Sanduches,3,0,0,3.75,8
+2026-02-12,Sanduche vegetariano,Sanduches,3,0,0,3.2,7
+2026-02-12,Cheesecake,Postres,3,0,0,2.8,8
+2026-02-12,Brownie,Postres,3,0,0,2.2,8
+2026-02-12,Tarta de chocolate,Postres,3,0,0,3.0,10
+2026-02-12,Tres leches,Postres,3,0,0,2.75,8
+2026-02-12,Galleta rellena,Postres,3,0,0,1.8,10
+2026-02-13,Sanduche de pollo,Sanduches,4,0,0,3.5,14
+2026-02-13,Sanduche mixto,Sanduches,4,0,0,3.25,10
+2026-02-13,Sanduche de jamón,Sanduches,4,0,0,3.0,10
+2026-02-13,Sanduche de atún,Sanduches,4,0,0,3.75,9
+2026-02-13,Sanduche vegetariano,Sanduches,4,0,0,3.2,5
+2026-02-13,Cheesecake,Postres,4,0,0,2.8,7
+2026-02-13,Brownie,Postres,4,0,0,2.2,9
+2026-02-13,Tarta de chocolate,Postres,4,0,0,3.0,6
+2026-02-13,Tres leches,Postres,4,0,0,2.75,7
+2026-02-13,Galleta rellena,Postres,4,0,0,1.8,12
+2026-02-14,Sanduche de pollo,Sanduches,5,1,0,3.5,9
+2026-02-14,Sanduche mixto,Sanduches,5,1,0,3.25,12
+2026-02-14,Sanduche de jamón,Sanduches,5,1,0,3.0,9
+2026-02-14,Sanduche de atún,Sanduches,5,1,0,3.75,4
+2026-02-14,Sanduche vegetariano,Sanduches,5,1,0,3.2,5
+2026-02-14,Cheesecake,Postres,5,1,0,2.8,10
+2026-02-14,Brownie,Postres,5,1,0,2.2,11
+2026-02-14,Tarta de chocolate,Postres,5,1,0,3.0,12
+2026-02-14,Tres leches,Postres,5,1,0,2.75,11
+2026-02-14,Galleta rellena,Postres,5,1,0,1.8,13
+2026-02-15,Sanduche de pollo,Sanduches,6,1,0,3.5,13
+2026-02-15,Sanduche mixto,Sanduches,6,1,0,3.25,10
+2026-02-15,Sanduche de jamón,Sanduches,6,1,0,3.0,6
+2026-02-15,Sanduche de atún,Sanduches,6,1,0,3.75,7
+2026-02-15,Sanduche vegetariano,Sanduches,6,1,0,3.2,2
+2026-02-15,Cheesecake,Postres,6,1,0,2.8,9
+2026-02-15,Brownie,Postres,6,1,0,2.2,10
+2026-02-15,Tarta de chocolate,Postres,6,1,0,3.0,10
+2026-02-15,Tres leches,Postres,6,1,0,2.75,13
+2026-02-15,Galleta rellena,Postres,6,1,0,1.8,9
+2026-02-16,Sanduche de pollo,Sanduches,0,0,0,3.5,13
+2026-02-16,Sanduche mixto,Sanduches,0,0,0,3.25,12
+2026-02-16,Sanduche de jamón,Sanduches,0,0,0,3.0,8
+2026-02-16,Sanduche de atún,Sanduches,0,0,0,3.75,7
+2026-02-16,Sanduche vegetariano,Sanduches,0,0,0,3.2,10
+2026-02-16,Cheesecake,Postres,0,0,0,2.8,7
+2026-02-16,Brownie,Postres,0,0,0,2.2,10
+2026-02-16,Tarta de chocolate,Postres,0,0,0,3.0,5
+2026-02-16,Tres leches,Postres,0,0,0,2.75,11
+2026-02-16,Galleta rellena,Postres,0,0,0,1.8,15
+2026-02-17,Sanduche de pollo,Sanduches,1,0,0,3.5,10
+2026-02-17,Sanduche mixto,Sanduches,1,0,0,3.25,12
+2026-02-17,Sanduche de jamón,Sanduches,1,0,0,3.0,9
+2026-02-17,Sanduche de atún,Sanduches,1,0,0,3.75,10
+2026-02-17,Sanduche vegetariano,Sanduches,1,0,0,3.2,5
+2026-02-17,Cheesecake,Postres,1,0,0,2.8,7
+2026-02-17,Brownie,Postres,1,0,0,2.2,10
+2026-02-17,Tarta de chocolate,Postres,1,0,0,3.0,10
+2026-02-17,Tres leches,Postres,1,0,0,2.75,4
+2026-02-17,Galleta rellena,Postres,1,0,0,1.8,10
+2026-02-18,Sanduche de pollo,Sanduches,2,0,0,3.5,15
+2026-02-18,Sanduche mixto,Sanduches,2,0,0,3.25,9
+2026-02-18,Sanduche de jamón,Sanduches,2,0,0,3.0,12
+2026-02-18,Sanduche de atún,Sanduches,2,0,0,3.75,11
+2026-02-18,Sanduche vegetariano,Sanduches,2,0,0,3.2,8
+2026-02-18,Cheesecake,Postres,2,0,0,2.8,10
+2026-02-18,Brownie,Postres,2,0,0,2.2,6
+2026-02-18,Tarta de chocolate,Postres,2,0,0,3.0,12
+2026-02-18,Tres leches,Postres,2,0,0,2.75,5
+2026-02-18,Galleta rellena,Postres,2,0,0,1.8,8
+2026-02-19,Sanduche de pollo,Sanduches,3,0,1,3.5,14
+2026-02-19,Sanduche mixto,Sanduches,3,0,1,3.25,14
+2026-02-19,Sanduche de jamón,Sanduches,3,0,1,3.0,12
+2026-02-19,Sanduche de atún,Sanduches,3,0,1,3.75,10
+2026-02-19,Sanduche vegetariano,Sanduches,3,0,1,3.2,5
+2026-02-19,Cheesecake,Postres,3,0,1,2.8,6
+2026-02-19,Brownie,Postres,3,0,1,2.2,10
+2026-02-19,Tarta de chocolate,Postres,3,0,1,3.0,11
+2026-02-19,Tres leches,Postres,3,0,1,2.75,8
+2026-02-19,Galleta rellena,Postres,3,0,1,1.8,17
+2026-02-20,Sanduche de pollo,Sanduches,4,0,0,3.5,16
+2026-02-20,Sanduche mixto,Sanduches,4,0,0,3.25,15
+2026-02-20,Sanduche de jamón,Sanduches,4,0,0,3.0,11
+2026-02-20,Sanduche de atún,Sanduches,4,0,0,3.75,10
+2026-02-20,Sanduche vegetariano,Sanduches,4,0,0,3.2,8
+2026-02-20,Cheesecake,Postres,4,0,0,2.8,9
+2026-02-20,Brownie,Postres,4,0,0,2.2,7
+2026-02-20,Tarta de chocolate,Postres,4,0,0,3.0,8
+2026-02-20,Tres leches,Postres,4,0,0,2.75,7
+2026-02-20,Galleta rellena,Postres,4,0,0,1.8,12
+2026-02-21,Sanduche de pollo,Sanduches,5,1,0,3.5,12
+2026-02-21,Sanduche mixto,Sanduches,5,1,0,3.25,11
+2026-02-21,Sanduche de jamón,Sanduches,5,1,0,3.0,6
+2026-02-21,Sanduche de atún,Sanduches,5,1,0,3.75,3
+2026-02-21,Sanduche vegetariano,Sanduches,5,1,0,3.2,3
+2026-02-21,Cheesecake,Postres,5,1,0,2.8,6
+2026-02-21,Brownie,Postres,5,1,0,2.2,11
+2026-02-21,Tarta de chocolate,Postres,5,1,0,3.0,9
+2026-02-21,Tres leches,Postres,5,1,0,2.75,10
+2026-02-21,Galleta rellena,Postres,5,1,0,1.8,10
+2026-02-22,Sanduche de pollo,Sanduches,6,1,0,3.5,9
+2026-02-22,Sanduche mixto,Sanduches,6,1,0,3.25,12
+2026-02-22,Sanduche de jamón,Sanduches,6,1,0,3.0,7
+2026-02-22,Sanduche de atún,Sanduches,6,1,0,3.75,2
+2026-02-22,Sanduche vegetariano,Sanduches,6,1,0,3.2,2
+2026-02-22,Cheesecake,Postres,6,1,0,2.8,12
+2026-02-22,Brownie,Postres,6,1,0,2.2,12
+2026-02-22,Tarta de chocolate,Postres,6,1,0,3.0,10
+2026-02-22,Tres leches,Postres,6,1,0,2.75,4
+2026-02-22,Galleta rellena,Postres,6,1,0,1.8,16
+2026-02-23,Sanduche de pollo,Sanduches,0,0,0,3.5,17
+2026-02-23,Sanduche mixto,Sanduches,0,0,0,3.25,13
+2026-02-23,Sanduche de jamón,Sanduches,0,0,0,3.0,9
+2026-02-23,Sanduche de atún,Sanduches,0,0,0,3.75,7
+2026-02-23,Sanduche vegetariano,Sanduches,0,0,0,3.2,9
+2026-02-23,Cheesecake,Postres,0,0,0,2.8,7
+2026-02-23,Brownie,Postres,0,0,0,2.2,6
+2026-02-23,Tarta de chocolate,Postres,0,0,0,3.0,9
+2026-02-23,Tres leches,Postres,0,0,0,2.75,8
+2026-02-23,Galleta rellena,Postres,0,0,0,1.8,13
+2026-02-24,Sanduche de pollo,Sanduches,1,0,0,3.5,15
+2026-02-24,Sanduche mixto,Sanduches,1,0,0,3.25,7
+2026-02-24,Sanduche de jamón,Sanduches,1,0,0,3.0,5
+2026-02-24,Sanduche de atún,Sanduches,1,0,0,3.75,8
+2026-02-24,Sanduche vegetariano,Sanduches,1,0,0,3.2,6
+2026-02-24,Cheesecake,Postres,1,0,0,2.8,6
+2026-02-24,Brownie,Postres,1,0,0,2.2,8
+2026-02-24,Tarta de chocolate,Postres,1,0,0,3.0,10
+2026-02-24,Tres leches,Postres,1,0,0,2.75,6
+2026-02-24,Galleta rellena,Postres,1,0,0,1.8,12
+2026-02-25,Sanduche de pollo,Sanduches,2,0,0,3.5,12
+2026-02-25,Sanduche mixto,Sanduches,2,0,0,3.25,12
+2026-02-25,Sanduche de jamón,Sanduches,2,0,0,3.0,10
+2026-02-25,Sanduche de atún,Sanduches,2,0,0,3.75,6
+2026-02-25,Sanduche vegetariano,Sanduches,2,0,0,3.2,4
+2026-02-25,Cheesecake,Postres,2,0,0,2.8,8
+2026-02-25,Brownie,Postres,2,0,0,2.2,13
+2026-02-25,Tarta de chocolate,Postres,2,0,0,3.0,9
+2026-02-25,Tres leches,Postres,2,0,0,2.75,6
+2026-02-25,Galleta rellena,Postres,2,0,0,1.8,11
+2026-02-26,Sanduche de pollo,Sanduches,3,0,1,3.5,15
+2026-02-26,Sanduche mixto,Sanduches,3,0,1,3.25,14
+2026-02-26,Sanduche de jamón,Sanduches,3,0,1,3.0,12
+2026-02-26,Sanduche de atún,Sanduches,3,0,1,3.75,9
+2026-02-26,Sanduche vegetariano,Sanduches,3,0,1,3.2,11
+2026-02-26,Cheesecake,Postres,3,0,1,2.8,9
+2026-02-26,Brownie,Postres,3,0,1,2.2,11
+2026-02-26,Tarta de chocolate,Postres,3,0,1,3.0,9
+2026-02-26,Tres leches,Postres,3,0,1,2.75,6
+2026-02-26,Galleta rellena,Postres,3,0,1,1.8,16
+2026-02-27,Sanduche de pollo,Sanduches,4,0,0,3.5,13
+2026-02-27,Sanduche mixto,Sanduches,4,0,0,3.25,12
+2026-02-27,Sanduche de jamón,Sanduches,4,0,0,3.0,9
+2026-02-27,Sanduche de atún,Sanduches,4,0,0,3.75,8
+2026-02-27,Sanduche vegetariano,Sanduches,4,0,0,3.2,10
+2026-02-27,Cheesecake,Postres,4,0,0,2.8,9
+2026-02-27,Brownie,Postres,4,0,0,2.2,10
+2026-02-27,Tarta de chocolate,Postres,4,0,0,3.0,8
+2026-02-27,Tres leches,Postres,4,0,0,2.75,3
+2026-02-27,Galleta rellena,Postres,4,0,0,1.8,9
+2026-02-28,Sanduche de pollo,Sanduches,5,1,1,3.5,16
+2026-02-28,Sanduche mixto,Sanduches,5,1,1,3.25,9
+2026-02-28,Sanduche de jamón,Sanduches,5,1,1,3.0,8
+2026-02-28,Sanduche de atún,Sanduches,5,1,1,3.75,6
+2026-02-28,Sanduche vegetariano,Sanduches,5,1,1,3.2,6
+2026-02-28,Cheesecake,Postres,5,1,1,2.8,12
+2026-02-28,Brownie,Postres,5,1,1,2.2,11
+2026-02-28,Tarta de chocolate,Postres,5,1,1,3.0,9
+2026-02-28,Tres leches,Postres,5,1,1,2.75,7
+2026-02-28,Galleta rellena,Postres,5,1,1,1.8,19
+2026-03-01,Sanduche de pollo,Sanduches,6,1,0,3.5,11
+2026-03-01,Sanduche mixto,Sanduches,6,1,0,3.25,11
+2026-03-01,Sanduche de jamón,Sanduches,6,1,0,3.0,4
+2026-03-01,Sanduche de atún,Sanduches,6,1,0,3.75,7
+2026-03-01,Sanduche vegetariano,Sanduches,6,1,0,3.2,4
+2026-03-01,Cheesecake,Postres,6,1,0,2.8,6
+2026-03-01,Brownie,Postres,6,1,0,2.2,13
+2026-03-01,Tarta de chocolate,Postres,6,1,0,3.0,6
+2026-03-01,Tres leches,Postres,6,1,0,2.75,4
+2026-03-01,Galleta rellena,Postres,6,1,0,1.8,14
+2026-03-02,Sanduche de pollo,Sanduches,0,0,1,3.5,15
+2026-03-02,Sanduche mixto,Sanduches,0,0,1,3.25,14
+2026-03-02,Sanduche de jamón,Sanduches,0,0,1,3.0,13
+2026-03-02,Sanduche de atún,Sanduches,0,0,1,3.75,11
+2026-03-02,Sanduche vegetariano,Sanduches,0,0,1,3.2,13
+2026-03-02,Cheesecake,Postres,0,0,1,2.8,8
+2026-03-02,Brownie,Postres,0,0,1,2.2,13
+2026-03-02,Tarta de chocolate,Postres,0,0,1,3.0,9
+2026-03-02,Tres leches,Postres,0,0,1,2.75,7
+2026-03-02,Galleta rellena,Postres,0,0,1,1.8,16
+2026-03-03,Sanduche de pollo,Sanduches,1,0,0,3.5,15
+2026-03-03,Sanduche mixto,Sanduches,1,0,0,3.25,16
+2026-03-03,Sanduche de jamón,Sanduches,1,0,0,3.0,11
+2026-03-03,Sanduche de atún,Sanduches,1,0,0,3.75,8
+2026-03-03,Sanduche vegetariano,Sanduches,1,0,0,3.2,10
+2026-03-03,Cheesecake,Postres,1,0,0,2.8,8
+2026-03-03,Brownie,Postres,1,0,0,2.2,8
+2026-03-03,Tarta de chocolate,Postres,1,0,0,3.0,11
+2026-03-03,Tres leches,Postres,1,0,0,2.75,5
+2026-03-03,Galleta rellena,Postres,1,0,0,1.8,10
+2026-03-04,Sanduche de pollo,Sanduches,2,0,0,3.5,12
+2026-03-04,Sanduche mixto,Sanduches,2,0,0,3.25,11
+2026-03-04,Sanduche de jamón,Sanduches,2,0,0,3.0,11
+2026-03-04,Sanduche de atún,Sanduches,2,0,0,3.75,9
+2026-03-04,Sanduche vegetariano,Sanduches,2,0,0,3.2,7
+2026-03-04,Cheesecake,Postres,2,0,0,2.8,6
+2026-03-04,Brownie,Postres,2,0,0,2.2,12
+2026-03-04,Tarta de chocolate,Postres,2,0,0,3.0,8
+2026-03-04,Tres leches,Postres,2,0,0,2.75,8
+2026-03-04,Galleta rellena,Postres,2,0,0,1.8,10
+2026-03-05,Sanduche de pollo,Sanduches,3,0,1,3.5,16
+2026-03-05,Sanduche mixto,Sanduches,3,0,1,3.25,17
+2026-03-05,Sanduche de jamón,Sanduches,3,0,1,3.0,16
+2026-03-05,Sanduche de atún,Sanduches,3,0,1,3.75,9
+2026-03-05,Sanduche vegetariano,Sanduches,3,0,1,3.2,9
+2026-03-05,Cheesecake,Postres,3,0,1,2.8,9
+2026-03-05,Brownie,Postres,3,0,1,2.2,13
+2026-03-05,Tarta de chocolate,Postres,3,0,1,3.0,15
+2026-03-05,Tres leches,Postres,3,0,1,2.75,10
+2026-03-05,Galleta rellena,Postres,3,0,1,1.8,15
+2026-03-06,Sanduche de pollo,Sanduches,4,0,1,3.5,18
+2026-03-06,Sanduche mixto,Sanduches,4,0,1,3.25,14
+2026-03-06,Sanduche de jamón,Sanduches,4,0,1,3.0,8
+2026-03-06,Sanduche de atún,Sanduches,4,0,1,3.75,9
+2026-03-06,Sanduche vegetariano,Sanduches,4,0,1,3.2,6
+2026-03-06,Cheesecake,Postres,4,0,1,2.8,11
+2026-03-06,Brownie,Postres,4,0,1,2.2,8
+2026-03-06,Tarta de chocolate,Postres,4,0,1,3.0,13
+2026-03-06,Tres leches,Postres,4,0,1,2.75,12
+2026-03-06,Galleta rellena,Postres,4,0,1,1.8,12
+2026-03-07,Sanduche de pollo,Sanduches,5,1,0,3.5,9
+2026-03-07,Sanduche mixto,Sanduches,5,1,0,3.25,10
+2026-03-07,Sanduche de jamón,Sanduches,5,1,0,3.0,8
+2026-03-07,Sanduche de atún,Sanduches,5,1,0,3.75,4
+2026-03-07,Sanduche vegetariano,Sanduches,5,1,0,3.2,8
+2026-03-07,Cheesecake,Postres,5,1,0,2.8,8
+2026-03-07,Brownie,Postres,5,1,0,2.2,10
+2026-03-07,Tarta de chocolate,Postres,5,1,0,3.0,9
+2026-03-07,Tres leches,Postres,5,1,0,2.75,6
+2026-03-07,Galleta rellena,Postres,5,1,0,1.8,12
+2026-03-08,Sanduche de pollo,Sanduches,6,1,0,3.5,11
+2026-03-08,Sanduche mixto,Sanduches,6,1,0,3.25,7
+2026-03-08,Sanduche de jamón,Sanduches,6,1,0,3.0,6
+2026-03-08,Sanduche de atún,Sanduches,6,1,0,3.75,3
+2026-03-08,Sanduche vegetariano,Sanduches,6,1,0,3.2,8
+2026-03-08,Cheesecake,Postres,6,1,0,2.8,9
+2026-03-08,Brownie,Postres,6,1,0,2.2,10
+2026-03-08,Tarta de chocolate,Postres,6,1,0,3.0,10
+2026-03-08,Tres leches,Postres,6,1,0,2.75,8
+2026-03-08,Galleta rellena,Postres,6,1,0,1.8,13
+2026-03-09,Sanduche de pollo,Sanduches,0,0,1,3.5,15
+2026-03-09,Sanduche mixto,Sanduches,0,0,1,3.25,15
+2026-03-09,Sanduche de jamón,Sanduches,0,0,1,3.0,13
+2026-03-09,Sanduche de atún,Sanduches,0,0,1,3.75,11
+2026-03-09,Sanduche vegetariano,Sanduches,0,0,1,3.2,12
+2026-03-09,Cheesecake,Postres,0,0,1,2.8,9
+2026-03-09,Brownie,Postres,0,0,1,2.2,14
+2026-03-09,Tarta de chocolate,Postres,0,0,1,3.0,9
+2026-03-09,Tres leches,Postres,0,0,1,2.75,15
+2026-03-09,Galleta rellena,Postres,0,0,1,1.8,14
+2026-03-10,Sanduche de pollo,Sanduches,1,0,1,3.5,13
+2026-03-10,Sanduche mixto,Sanduches,1,0,1,3.25,13
+2026-03-10,Sanduche de jamón,Sanduches,1,0,1,3.0,13
+2026-03-10,Sanduche de atún,Sanduches,1,0,1,3.75,9
+2026-03-10,Sanduche vegetariano,Sanduches,1,0,1,3.2,7
+2026-03-10,Cheesecake,Postres,1,0,1,2.8,6
+2026-03-10,Brownie,Postres,1,0,1,2.2,9
+2026-03-10,Tarta de chocolate,Postres,1,0,1,3.0,6
+2026-03-10,Tres leches,Postres,1,0,1,2.75,8
+2026-03-10,Galleta rellena,Postres,1,0,1,1.8,18
+2026-03-11,Sanduche de pollo,Sanduches,2,0,0,3.5,18
+2026-03-11,Sanduche mixto,Sanduches,2,0,0,3.25,15
+2026-03-11,Sanduche de jamón,Sanduches,2,0,0,3.0,6
+2026-03-11,Sanduche de atún,Sanduches,2,0,0,3.75,10
+2026-03-11,Sanduche vegetariano,Sanduches,2,0,0,3.2,8
+2026-03-11,Cheesecake,Postres,2,0,0,2.8,6
+2026-03-11,Brownie,Postres,2,0,0,2.2,6
+2026-03-11,Tarta de chocolate,Postres,2,0,0,3.0,9
+2026-03-11,Tres leches,Postres,2,0,0,2.75,2
+2026-03-11,Galleta rellena,Postres,2,0,0,1.8,11
+2026-03-12,Sanduche de pollo,Sanduches,3,0,1,3.5,14
+2026-03-12,Sanduche mixto,Sanduches,3,0,1,3.25,14
+2026-03-12,Sanduche de jamón,Sanduches,3,0,1,3.0,10
+2026-03-12,Sanduche de atún,Sanduches,3,0,1,3.75,10
+2026-03-12,Sanduche vegetariano,Sanduches,3,0,1,3.2,8
+2026-03-12,Cheesecake,Postres,3,0,1,2.8,6
+2026-03-12,Brownie,Postres,3,0,1,2.2,12
+2026-03-12,Tarta de chocolate,Postres,3,0,1,3.0,13
+2026-03-12,Tres leches,Postres,3,0,1,2.75,8
+2026-03-12,Galleta rellena,Postres,3,0,1,1.8,15
+2026-03-13,Sanduche de pollo,Sanduches,4,0,0,3.5,14
+2026-03-13,Sanduche mixto,Sanduches,4,0,0,3.25,14
+2026-03-13,Sanduche de jamón,Sanduches,4,0,0,3.0,7
+2026-03-13,Sanduche de atún,Sanduches,4,0,0,3.75,9
+2026-03-13,Sanduche vegetariano,Sanduches,4,0,0,3.2,6
+2026-03-13,Cheesecake,Postres,4,0,0,2.8,8
+2026-03-13,Brownie,Postres,4,0,0,2.2,7
+2026-03-13,Tarta de chocolate,Postres,4,0,0,3.0,4
+2026-03-13,Tres leches,Postres,4,0,0,2.75,3
+2026-03-13,Galleta rellena,Postres,4,0,0,1.8,11
+2026-03-14,Sanduche de pollo,Sanduches,5,1,0,3.5,8
+2026-03-14,Sanduche mixto,Sanduches,5,1,0,3.25,11
+2026-03-14,Sanduche de jamón,Sanduches,5,1,0,3.0,5
+2026-03-14,Sanduche de atún,Sanduches,5,1,0,3.75,6
+2026-03-14,Sanduche vegetariano,Sanduches,5,1,0,3.2,10
+2026-03-14,Cheesecake,Postres,5,1,0,2.8,6
+2026-03-14,Brownie,Postres,5,1,0,2.2,11
+2026-03-14,Tarta de chocolate,Postres,5,1,0,3.0,9
+2026-03-14,Tres leches,Postres,5,1,0,2.75,7
+2026-03-14,Galleta rellena,Postres,5,1,0,1.8,15
+2026-03-15,Sanduche de pollo,Sanduches,6,1,0,3.5,12
+2026-03-15,Sanduche mixto,Sanduches,6,1,0,3.25,12
+2026-03-15,Sanduche de jamón,Sanduches,6,1,0,3.0,2
+2026-03-15,Sanduche de atún,Sanduches,6,1,0,3.75,3
+2026-03-15,Sanduche vegetariano,Sanduches,6,1,0,3.2,5
+2026-03-15,Cheesecake,Postres,6,1,0,2.8,9
+2026-03-15,Brownie,Postres,6,1,0,2.2,12
+2026-03-15,Tarta de chocolate,Postres,6,1,0,3.0,9
+2026-03-15,Tres leches,Postres,6,1,0,2.75,8
+2026-03-15,Galleta rellena,Postres,6,1,0,1.8,13
+2026-03-16,Sanduche de pollo,Sanduches,0,0,0,3.5,14
+2026-03-16,Sanduche mixto,Sanduches,0,0,0,3.25,12
+2026-03-16,Sanduche de jamón,Sanduches,0,0,0,3.0,9
+2026-03-16,Sanduche de atún,Sanduches,0,0,0,3.75,9
+2026-03-16,Sanduche vegetariano,Sanduches,0,0,0,3.2,6
+2026-03-16,Cheesecake,Postres,0,0,0,2.8,6
+2026-03-16,Brownie,Postres,0,0,0,2.2,10
+2026-03-16,Tarta de chocolate,Postres,0,0,0,3.0,10
+2026-03-16,Tres leches,Postres,0,0,0,2.75,2
+2026-03-16,Galleta rellena,Postres,0,0,0,1.8,12
+2026-03-17,Sanduche de pollo,Sanduches,1,0,1,3.5,14
+2026-03-17,Sanduche mixto,Sanduches,1,0,1,3.25,18
+2026-03-17,Sanduche de jamón,Sanduches,1,0,1,3.0,14
+2026-03-17,Sanduche de atún,Sanduches,1,0,1,3.75,15
+2026-03-17,Sanduche vegetariano,Sanduches,1,0,1,3.2,6
+2026-03-17,Cheesecake,Postres,1,0,1,2.8,12
+2026-03-17,Brownie,Postres,1,0,1,2.2,11
+2026-03-17,Tarta de chocolate,Postres,1,0,1,3.0,11
+2026-03-17,Tres leches,Postres,1,0,1,2.75,6
+2026-03-17,Galleta rellena,Postres,1,0,1,1.8,16
+2026-03-18,Sanduche de pollo,Sanduches,2,0,1,3.5,17
+2026-03-18,Sanduche mixto,Sanduches,2,0,1,3.25,13
+2026-03-18,Sanduche de jamón,Sanduches,2,0,1,3.0,14
+2026-03-18,Sanduche de atún,Sanduches,2,0,1,3.75,13
+2026-03-18,Sanduche vegetariano,Sanduches,2,0,1,3.2,9
+2026-03-18,Cheesecake,Postres,2,0,1,2.8,8
+2026-03-18,Brownie,Postres,2,0,1,2.2,14
+2026-03-18,Tarta de chocolate,Postres,2,0,1,3.0,10
+2026-03-18,Tres leches,Postres,2,0,1,2.75,4
+2026-03-18,Galleta rellena,Postres,2,0,1,1.8,13
+2026-03-19,Sanduche de pollo,Sanduches,3,0,0,3.5,17
+2026-03-19,Sanduche mixto,Sanduches,3,0,0,3.25,11
+2026-03-19,Sanduche de jamón,Sanduches,3,0,0,3.0,9
+2026-03-19,Sanduche de atún,Sanduches,3,0,0,3.75,7
+2026-03-19,Sanduche vegetariano,Sanduches,3,0,0,3.2,9
+2026-03-19,Cheesecake,Postres,3,0,0,2.8,9
+2026-03-19,Brownie,Postres,3,0,0,2.2,12
+2026-03-19,Tarta de chocolate,Postres,3,0,0,3.0,10
+2026-03-19,Tres leches,Postres,3,0,0,2.75,3
+2026-03-19,Galleta rellena,Postres,3,0,0,1.8,12
+2026-03-20,Sanduche de pollo,Sanduches,4,0,0,3.5,10
+2026-03-20,Sanduche mixto,Sanduches,4,0,0,3.25,15
+2026-03-20,Sanduche de jamón,Sanduches,4,0,0,3.0,11
+2026-03-20,Sanduche de atún,Sanduches,4,0,0,3.75,8
+2026-03-20,Sanduche vegetariano,Sanduches,4,0,0,3.2,8
+2026-03-20,Cheesecake,Postres,4,0,0,2.8,5
+2026-03-20,Brownie,Postres,4,0,0,2.2,14
+2026-03-20,Tarta de chocolate,Postres,4,0,0,3.0,8
+2026-03-20,Tres leches,Postres,4,0,0,2.75,6
+2026-03-20,Galleta rellena,Postres,4,0,0,1.8,12
+2026-03-21,Sanduche de pollo,Sanduches,5,1,0,3.5,11
+2026-03-21,Sanduche mixto,Sanduches,5,1,0,3.25,10
+2026-03-21,Sanduche de jamón,Sanduches,5,1,0,3.0,8
+2026-03-21,Sanduche de atún,Sanduches,5,1,0,3.75,3
+2026-03-21,Sanduche vegetariano,Sanduches,5,1,0,3.2,1
+2026-03-21,Cheesecake,Postres,5,1,0,2.8,13
+2026-03-21,Brownie,Postres,5,1,0,2.2,11
+2026-03-21,Tarta de chocolate,Postres,5,1,0,3.0,10
+2026-03-21,Tres leches,Postres,5,1,0,2.75,8
+2026-03-21,Galleta rellena,Postres,5,1,0,1.8,15
+2026-03-22,Sanduche de pollo,Sanduches,6,1,0,3.5,11
+2026-03-22,Sanduche mixto,Sanduches,6,1,0,3.25,11
+2026-03-22,Sanduche de jamón,Sanduches,6,1,0,3.0,4
+2026-03-22,Sanduche de atún,Sanduches,6,1,0,3.75,8
+2026-03-22,Sanduche vegetariano,Sanduches,6,1,0,3.2,4
+2026-03-22,Cheesecake,Postres,6,1,0,2.8,8
+2026-03-22,Brownie,Postres,6,1,0,2.2,9
+2026-03-22,Tarta de chocolate,Postres,6,1,0,3.0,7
+2026-03-22,Tres leches,Postres,6,1,0,2.75,10
+2026-03-22,Galleta rellena,Postres,6,1,0,1.8,13
+2026-03-23,Sanduche de pollo,Sanduches,0,0,0,3.5,17
+2026-03-23,Sanduche mixto,Sanduches,0,0,0,3.25,10
+2026-03-23,Sanduche de jamón,Sanduches,0,0,0,3.0,7
+2026-03-23,Sanduche de atún,Sanduches,0,0,0,3.75,7
+2026-03-23,Sanduche vegetariano,Sanduches,0,0,0,3.2,5
+2026-03-23,Cheesecake,Postres,0,0,0,2.8,7
+2026-03-23,Brownie,Postres,0,0,0,2.2,9
+2026-03-23,Tarta de chocolate,Postres,0,0,0,3.0,5
+2026-03-23,Tres leches,Postres,0,0,0,2.75,8
+2026-03-23,Galleta rellena,Postres,0,0,0,1.8,11
+2026-03-24,Sanduche de pollo,Sanduches,1,0,0,3.5,18
+2026-03-24,Sanduche mixto,Sanduches,1,0,0,3.25,14
+2026-03-24,Sanduche de jamón,Sanduches,1,0,0,3.0,9
+2026-03-24,Sanduche de atún,Sanduches,1,0,0,3.75,6
+2026-03-24,Sanduche vegetariano,Sanduches,1,0,0,3.2,12
+2026-03-24,Cheesecake,Postres,1,0,0,2.8,7
+2026-03-24,Brownie,Postres,1,0,0,2.2,9
+2026-03-24,Tarta de chocolate,Postres,1,0,0,3.0,8
+2026-03-24,Tres leches,Postres,1,0,0,2.75,6
+2026-03-24,Galleta rellena,Postres,1,0,0,1.8,11
+2026-03-25,Sanduche de pollo,Sanduches,2,0,0,3.5,19
+2026-03-25,Sanduche mixto,Sanduches,2,0,0,3.25,10
+2026-03-25,Sanduche de jamón,Sanduches,2,0,0,3.0,13
+2026-03-25,Sanduche de atún,Sanduches,2,0,0,3.75,3
+2026-03-25,Sanduche vegetariano,Sanduches,2,0,0,3.2,3
+2026-03-25,Cheesecake,Postres,2,0,0,2.8,5
+2026-03-25,Brownie,Postres,2,0,0,2.2,7
+2026-03-25,Tarta de chocolate,Postres,2,0,0,3.0,8
+2026-03-25,Tres leches,Postres,2,0,0,2.75,7
+2026-03-25,Galleta rellena,Postres,2,0,0,1.8,10
+2026-03-26,Sanduche de pollo,Sanduches,3,0,1,3.5,18
+2026-03-26,Sanduche mixto,Sanduches,3,0,1,3.25,10
+2026-03-26,Sanduche de jamón,Sanduches,3,0,1,3.0,12
+2026-03-26,Sanduche de atún,Sanduches,3,0,1,3.75,11
+2026-03-26,Sanduche vegetariano,Sanduches,3,0,1,3.2,8
+2026-03-26,Cheesecake,Postres,3,0,1,2.8,9
+2026-03-26,Brownie,Postres,3,0,1,2.2,7
+2026-03-26,Tarta de chocolate,Postres,3,0,1,3.0,11
+2026-03-26,Tres leches,Postres,3,0,1,2.75,9
+2026-03-26,Galleta rellena,Postres,3,0,1,1.8,15
+2026-03-27,Sanduche de pollo,Sanduches,4,0,1,3.5,18
+2026-03-27,Sanduche mixto,Sanduches,4,0,1,3.25,14
+2026-03-27,Sanduche de jamón,Sanduches,4,0,1,3.0,11
+2026-03-27,Sanduche de atún,Sanduches,4,0,1,3.75,8
+2026-03-27,Sanduche vegetariano,Sanduches,4,0,1,3.2,13
+2026-03-27,Cheesecake,Postres,4,0,1,2.8,10
+2026-03-27,Brownie,Postres,4,0,1,2.2,15
+2026-03-27,Tarta de chocolate,Postres,4,0,1,3.0,11
+2026-03-27,Tres leches,Postres,4,0,1,2.75,6
+2026-03-27,Galleta rellena,Postres,4,0,1,1.8,16
+2026-03-28,Sanduche de pollo,Sanduches,5,1,0,3.5,8
+2026-03-28,Sanduche mixto,Sanduches,5,1,0,3.25,10
+2026-03-28,Sanduche de jamón,Sanduches,5,1,0,3.0,4
+2026-03-28,Sanduche de atún,Sanduches,5,1,0,3.75,9
+2026-03-28,Sanduche vegetariano,Sanduches,5,1,0,3.2,0
+2026-03-28,Cheesecake,Postres,5,1,0,2.8,12
+2026-03-28,Brownie,Postres,5,1,0,2.2,11
+2026-03-28,Tarta de chocolate,Postres,5,1,0,3.0,10
+2026-03-28,Tres leches,Postres,5,1,0,2.75,7
+2026-03-28,Galleta rellena,Postres,5,1,0,1.8,14
+2026-03-29,Sanduche de pollo,Sanduches,6,1,1,3.5,14
+2026-03-29,Sanduche mixto,Sanduches,6,1,1,3.25,10
+2026-03-29,Sanduche de jamón,Sanduches,6,1,1,3.0,13
+2026-03-29,Sanduche de atún,Sanduches,6,1,1,3.75,9
+2026-03-29,Sanduche vegetariano,Sanduches,6,1,1,3.2,5
+2026-03-29,Cheesecake,Postres,6,1,1,2.8,11
+2026-03-29,Brownie,Postres,6,1,1,2.2,14
+2026-03-29,Tarta de chocolate,Postres,6,1,1,3.0,12
+2026-03-29,Tres leches,Postres,6,1,1,2.75,11
+2026-03-29,Galleta rellena,Postres,6,1,1,1.8,18
+2026-03-30,Sanduche de pollo,Sanduches,0,0,0,3.5,15
+2026-03-30,Sanduche mixto,Sanduches,0,0,0,3.25,9
+2026-03-30,Sanduche de jamón,Sanduches,0,0,0,3.0,12
+2026-03-30,Sanduche de atún,Sanduches,0,0,0,3.75,9
+2026-03-30,Sanduche vegetariano,Sanduches,0,0,0,3.2,8
+2026-03-30,Cheesecake,Postres,0,0,0,2.8,9
+2026-03-30,Brownie,Postres,0,0,0,2.2,12
+2026-03-30,Tarta de chocolate,Postres,0,0,0,3.0,10
+2026-03-30,Tres leches,Postres,0,0,0,2.75,2
+2026-03-30,Galleta rellena,Postres,0,0,0,1.8,8
+2026-03-31,Sanduche de pollo,Sanduches,1,0,0,3.5,13
+2026-03-31,Sanduche mixto,Sanduches,1,0,0,3.25,12
+2026-03-31,Sanduche de jamón,Sanduches,1,0,0,3.0,7
+2026-03-31,Sanduche de atún,Sanduches,1,0,0,3.75,9
+2026-03-31,Sanduche vegetariano,Sanduches,1,0,0,3.2,4
+2026-03-31,Cheesecake,Postres,1,0,0,2.8,5
+2026-03-31,Brownie,Postres,1,0,0,2.2,12
+2026-03-31,Tarta de chocolate,Postres,1,0,0,3.0,6
+2026-03-31,Tres leches,Postres,1,0,0,2.75,7
+2026-03-31,Galleta rellena,Postres,1,0,0,1.8,7
+2026-04-01,Sanduche de pollo,Sanduches,2,0,0,3.5,15
+2026-04-01,Sanduche mixto,Sanduches,2,0,0,3.25,12
+2026-04-01,Sanduche de jamón,Sanduches,2,0,0,3.0,8
+2026-04-01,Sanduche de atún,Sanduches,2,0,0,3.75,9
+2026-04-01,Sanduche vegetariano,Sanduches,2,0,0,3.2,6
+2026-04-01,Cheesecake,Postres,2,0,0,2.8,7
+2026-04-01,Brownie,Postres,2,0,0,2.2,14
+2026-04-01,Tarta de chocolate,Postres,2,0,0,3.0,8
+2026-04-01,Tres leches,Postres,2,0,0,2.75,8
+2026-04-01,Galleta rellena,Postres,2,0,0,1.8,10
+2026-04-02,Sanduche de pollo,Sanduches,3,0,0,3.5,14
+2026-04-02,Sanduche mixto,Sanduches,3,0,0,3.25,11
+2026-04-02,Sanduche de jamón,Sanduches,3,0,0,3.0,14
+2026-04-02,Sanduche de atún,Sanduches,3,0,0,3.75,8
+2026-04-02,Sanduche vegetariano,Sanduches,3,0,0,3.2,4
+2026-04-02,Cheesecake,Postres,3,0,0,2.8,6
+2026-04-02,Brownie,Postres,3,0,0,2.2,10
+2026-04-02,Tarta de chocolate,Postres,3,0,0,3.0,9
+2026-04-02,Tres leches,Postres,3,0,0,2.75,4
+2026-04-02,Galleta rellena,Postres,3,0,0,1.8,13
+2026-04-03,Sanduche de pollo,Sanduches,4,0,0,3.5,13
+2026-04-03,Sanduche mixto,Sanduches,4,0,0,3.25,12
+2026-04-03,Sanduche de jamón,Sanduches,4,0,0,3.0,10
+2026-04-03,Sanduche de atún,Sanduches,4,0,0,3.75,9
+2026-04-03,Sanduche vegetariano,Sanduches,4,0,0,3.2,7
+2026-04-03,Cheesecake,Postres,4,0,0,2.8,4
+2026-04-03,Brownie,Postres,4,0,0,2.2,10
+2026-04-03,Tarta de chocolate,Postres,4,0,0,3.0,9
+2026-04-03,Tres leches,Postres,4,0,0,2.75,7
+2026-04-03,Galleta rellena,Postres,4,0,0,1.8,13
+2026-04-04,Sanduche de pollo,Sanduches,5,1,0,3.5,10
+2026-04-04,Sanduche mixto,Sanduches,5,1,0,3.25,10
+2026-04-04,Sanduche de jamón,Sanduches,5,1,0,3.0,4
+2026-04-04,Sanduche de atún,Sanduches,5,1,0,3.75,5
+2026-04-04,Sanduche vegetariano,Sanduches,5,1,0,3.2,6
+2026-04-04,Cheesecake,Postres,5,1,0,2.8,9
+2026-04-04,Brownie,Postres,5,1,0,2.2,12
+2026-04-04,Tarta de chocolate,Postres,5,1,0,3.0,10
+2026-04-04,Tres leches,Postres,5,1,0,2.75,10
+2026-04-04,Galleta rellena,Postres,5,1,0,1.8,13
+2026-04-05,Sanduche de pollo,Sanduches,6,1,1,3.5,17
+2026-04-05,Sanduche mixto,Sanduches,6,1,1,3.25,12
+2026-04-05,Sanduche de jamón,Sanduches,6,1,1,3.0,12
+2026-04-05,Sanduche de atún,Sanduches,6,1,1,3.75,2
+2026-04-05,Sanduche vegetariano,Sanduches,6,1,1,3.2,6
+2026-04-05,Cheesecake,Postres,6,1,1,2.8,13
+2026-04-05,Brownie,Postres,6,1,1,2.2,17
+2026-04-05,Tarta de chocolate,Postres,6,1,1,3.0,7
+2026-04-05,Tres leches,Postres,6,1,1,2.75,11
+2026-04-05,Galleta rellena,Postres,6,1,1,1.8,16
+2026-04-06,Sanduche de pollo,Sanduches,0,0,1,3.5,16
+2026-04-06,Sanduche mixto,Sanduches,0,0,1,3.25,17
+2026-04-06,Sanduche de jamón,Sanduches,0,0,1,3.0,11
+2026-04-06,Sanduche de atún,Sanduches,0,0,1,3.75,9
+2026-04-06,Sanduche vegetariano,Sanduches,0,0,1,3.2,9
+2026-04-06,Cheesecake,Postres,0,0,1,2.8,11
+2026-04-06,Brownie,Postres,0,0,1,2.2,7
+2026-04-06,Tarta de chocolate,Postres,0,0,1,3.0,10
+2026-04-06,Tres leches,Postres,0,0,1,2.75,7
+2026-04-06,Galleta rellena,Postres,0,0,1,1.8,11
+2026-04-07,Sanduche de pollo,Sanduches,1,0,0,3.5,14
+2026-04-07,Sanduche mixto,Sanduches,1,0,0,3.25,12
+2026-04-07,Sanduche de jamón,Sanduches,1,0,0,3.0,12
+2026-04-07,Sanduche de atún,Sanduches,1,0,0,3.75,7
+2026-04-07,Sanduche vegetariano,Sanduches,1,0,0,3.2,8
+2026-04-07,Cheesecake,Postres,1,0,0,2.8,10
+2026-04-07,Brownie,Postres,1,0,0,2.2,10
+2026-04-07,Tarta de chocolate,Postres,1,0,0,3.0,8
+2026-04-07,Tres leches,Postres,1,0,0,2.75,4
+2026-04-07,Galleta rellena,Postres,1,0,0,1.8,10
+2026-04-08,Sanduche de pollo,Sanduches,2,0,1,3.5,17
+2026-04-08,Sanduche mixto,Sanduches,2,0,1,3.25,14
+2026-04-08,Sanduche de jamón,Sanduches,2,0,1,3.0,13
+2026-04-08,Sanduche de atún,Sanduches,2,0,1,3.75,9
+2026-04-08,Sanduche vegetariano,Sanduches,2,0,1,3.2,11
+2026-04-08,Cheesecake,Postres,2,0,1,2.8,8
+2026-04-08,Brownie,Postres,2,0,1,2.2,11
+2026-04-08,Tarta de chocolate,Postres,2,0,1,3.0,8
+2026-04-08,Tres leches,Postres,2,0,1,2.75,8
+2026-04-08,Galleta rellena,Postres,2,0,1,1.8,16
+2026-04-09,Sanduche de pollo,Sanduches,3,0,1,3.5,18
+2026-04-09,Sanduche mixto,Sanduches,3,0,1,3.25,20
+2026-04-09,Sanduche de jamón,Sanduches,3,0,1,3.0,8
+2026-04-09,Sanduche de atún,Sanduches,3,0,1,3.75,15
+2026-04-09,Sanduche vegetariano,Sanduches,3,0,1,3.2,9
+2026-04-09,Cheesecake,Postres,3,0,1,2.8,9
+2026-04-09,Brownie,Postres,3,0,1,2.2,12
+2026-04-09,Tarta de chocolate,Postres,3,0,1,3.0,13
+2026-04-09,Tres leches,Postres,3,0,1,2.75,10
+2026-04-09,Galleta rellena,Postres,3,0,1,1.8,14
+2026-04-10,Sanduche de pollo,Sanduches,4,0,0,3.5,12
+2026-04-10,Sanduche mixto,Sanduches,4,0,0,3.25,10
+2026-04-10,Sanduche de jamón,Sanduches,4,0,0,3.0,10
+2026-04-10,Sanduche de atún,Sanduches,4,0,0,3.75,7
+2026-04-10,Sanduche vegetariano,Sanduches,4,0,0,3.2,9
+2026-04-10,Cheesecake,Postres,4,0,0,2.8,7
+2026-04-10,Brownie,Postres,4,0,0,2.2,13
+2026-04-10,Tarta de chocolate,Postres,4,0,0,3.0,10
+2026-04-10,Tres leches,Postres,4,0,0,2.75,8
+2026-04-10,Galleta rellena,Postres,4,0,0,1.8,11
+2026-04-11,Sanduche de pollo,Sanduches,5,1,0,3.5,13
+2026-04-11,Sanduche mixto,Sanduches,5,1,0,3.25,9
+2026-04-11,Sanduche de jamón,Sanduches,5,1,0,3.0,6
+2026-04-11,Sanduche de atún,Sanduches,5,1,0,3.75,4
+2026-04-11,Sanduche vegetariano,Sanduches,5,1,0,3.2,3
+2026-04-11,Cheesecake,Postres,5,1,0,2.8,7
+2026-04-11,Brownie,Postres,5,1,0,2.2,12
+2026-04-11,Tarta de chocolate,Postres,5,1,0,3.0,9
+2026-04-11,Tres leches,Postres,5,1,0,2.75,8
+2026-04-11,Galleta rellena,Postres,5,1,0,1.8,13
+2026-04-12,Sanduche de pollo,Sanduches,6,1,1,3.5,11
+2026-04-12,Sanduche mixto,Sanduches,6,1,1,3.25,9
+2026-04-12,Sanduche de jamón,Sanduches,6,1,1,3.0,11
+2026-04-12,Sanduche de atún,Sanduches,6,1,1,3.75,6
+2026-04-12,Sanduche vegetariano,Sanduches,6,1,1,3.2,5
+2026-04-12,Cheesecake,Postres,6,1,1,2.8,10
+2026-04-12,Brownie,Postres,6,1,1,2.2,14
+2026-04-12,Tarta de chocolate,Postres,6,1,1,3.0,9
+2026-04-12,Tres leches,Postres,6,1,1,2.75,11
+2026-04-12,Galleta rellena,Postres,6,1,1,1.8,20
+2026-04-13,Sanduche de pollo,Sanduches,0,0,0,3.5,16
+2026-04-13,Sanduche mixto,Sanduches,0,0,0,3.25,12
+2026-04-13,Sanduche de jamón,Sanduches,0,0,0,3.0,8
+2026-04-13,Sanduche de atún,Sanduches,0,0,0,3.75,7
+2026-04-13,Sanduche vegetariano,Sanduches,0,0,0,3.2,9
+2026-04-13,Cheesecake,Postres,0,0,0,2.8,8
+2026-04-13,Brownie,Postres,0,0,0,2.2,10
+2026-04-13,Tarta de chocolate,Postres,0,0,0,3.0,7
+2026-04-13,Tres leches,Postres,0,0,0,2.75,8
+2026-04-13,Galleta rellena,Postres,0,0,0,1.8,13
+2026-04-14,Sanduche de pollo,Sanduches,1,0,0,3.5,13
+2026-04-14,Sanduche mixto,Sanduches,1,0,0,3.25,16
+2026-04-14,Sanduche de jamón,Sanduches,1,0,0,3.0,12
+2026-04-14,Sanduche de atún,Sanduches,1,0,0,3.75,11
+2026-04-14,Sanduche vegetariano,Sanduches,1,0,0,3.2,6
+2026-04-14,Cheesecake,Postres,1,0,0,2.8,7
+2026-04-14,Brownie,Postres,1,0,0,2.2,8
+2026-04-14,Tarta de chocolate,Postres,1,0,0,3.0,10
+2026-04-14,Tres leches,Postres,1,0,0,2.75,5
+2026-04-14,Galleta rellena,Postres,1,0,0,1.8,12
+2026-04-15,Sanduche de pollo,Sanduches,2,0,0,3.5,14
+2026-04-15,Sanduche mixto,Sanduches,2,0,0,3.25,10
+2026-04-15,Sanduche de jamón,Sanduches,2,0,0,3.0,10
+2026-04-15,Sanduche de atún,Sanduches,2,0,0,3.75,10
+2026-04-15,Sanduche vegetariano,Sanduches,2,0,0,3.2,6
+2026-04-15,Cheesecake,Postres,2,0,0,2.8,9
+2026-04-15,Brownie,Postres,2,0,0,2.2,10
+2026-04-15,Tarta de chocolate,Postres,2,0,0,3.0,9
+2026-04-15,Tres leches,Postres,2,0,0,2.75,5
+2026-04-15,Galleta rellena,Postres,2,0,0,1.8,10
+2026-04-16,Sanduche de pollo,Sanduches,3,0,1,3.5,16
+2026-04-16,Sanduche mixto,Sanduches,3,0,1,3.25,11
+2026-04-16,Sanduche de jamón,Sanduches,3,0,1,3.0,17
+2026-04-16,Sanduche de atún,Sanduches,3,0,1,3.75,8
+2026-04-16,Sanduche vegetariano,Sanduches,3,0,1,3.2,12
+2026-04-16,Cheesecake,Postres,3,0,1,2.8,10
+2026-04-16,Brownie,Postres,3,0,1,2.2,8
+2026-04-16,Tarta de chocolate,Postres,3,0,1,3.0,14
+2026-04-16,Tres leches,Postres,3,0,1,2.75,10
+2026-04-16,Galleta rellena,Postres,3,0,1,1.8,15
+2026-04-17,Sanduche de pollo,Sanduches,4,0,0,3.5,13
+2026-04-17,Sanduche mixto,Sanduches,4,0,0,3.25,12
+2026-04-17,Sanduche de jamón,Sanduches,4,0,0,3.0,9
+2026-04-17,Sanduche de atún,Sanduches,4,0,0,3.75,10
+2026-04-17,Sanduche vegetariano,Sanduches,4,0,0,3.2,7
+2026-04-17,Cheesecake,Postres,4,0,0,2.8,4
+2026-04-17,Brownie,Postres,4,0,0,2.2,6
+2026-04-17,Tarta de chocolate,Postres,4,0,0,3.0,9
+2026-04-17,Tres leches,Postres,4,0,0,2.75,3
+2026-04-17,Galleta rellena,Postres,4,0,0,1.8,12
+2026-04-18,Sanduche de pollo,Sanduches,5,1,0,3.5,8
+2026-04-18,Sanduche mixto,Sanduches,5,1,0,3.25,11
+2026-04-18,Sanduche de jamón,Sanduches,5,1,0,3.0,4
+2026-04-18,Sanduche de atún,Sanduches,5,1,0,3.75,9
+2026-04-18,Sanduche vegetariano,Sanduches,5,1,0,3.2,8
+2026-04-18,Cheesecake,Postres,5,1,0,2.8,8
+2026-04-18,Brownie,Postres,5,1,0,2.2,12
+2026-04-18,Tarta de chocolate,Postres,5,1,0,3.0,10
+2026-04-18,Tres leches,Postres,5,1,0,2.75,10
+2026-04-18,Galleta rellena,Postres,5,1,0,1.8,16
+2026-04-19,Sanduche de pollo,Sanduches,6,1,1,3.5,14
+2026-04-19,Sanduche mixto,Sanduches,6,1,1,3.25,13
+2026-04-19,Sanduche de jamón,Sanduches,6,1,1,3.0,8
+2026-04-19,Sanduche de atún,Sanduches,6,1,1,3.75,5
+2026-04-19,Sanduche vegetariano,Sanduches,6,1,1,3.2,5
+2026-04-19,Cheesecake,Postres,6,1,1,2.8,10
+2026-04-19,Brownie,Postres,6,1,1,2.2,15
+2026-04-19,Tarta de chocolate,Postres,6,1,1,3.0,12
+2026-04-19,Tres leches,Postres,6,1,1,2.75,8
+2026-04-19,Galleta rellena,Postres,6,1,1,1.8,18
+2026-04-20,Sanduche de pollo,Sanduches,0,0,0,3.5,18
+2026-04-20,Sanduche mixto,Sanduches,0,0,0,3.25,13
+2026-04-20,Sanduche de jamón,Sanduches,0,0,0,3.0,9
+2026-04-20,Sanduche de atún,Sanduches,0,0,0,3.75,9
+2026-04-20,Sanduche vegetariano,Sanduches,0,0,0,3.2,10
+2026-04-20,Cheesecake,Postres,0,0,0,2.8,9
+2026-04-20,Brownie,Postres,0,0,0,2.2,9
+2026-04-20,Tarta de chocolate,Postres,0,0,0,3.0,7
+2026-04-20,Tres leches,Postres,0,0,0,2.75,7
+2026-04-20,Galleta rellena,Postres,0,0,0,1.8,12
+2026-04-21,Sanduche de pollo,Sanduches,1,0,0,3.5,13
+2026-04-21,Sanduche mixto,Sanduches,1,0,0,3.25,14
+2026-04-21,Sanduche de jamón,Sanduches,1,0,0,3.0,10
+2026-04-21,Sanduche de atún,Sanduches,1,0,0,3.75,10
+2026-04-21,Sanduche vegetariano,Sanduches,1,0,0,3.2,7
+2026-04-21,Cheesecake,Postres,1,0,0,2.8,10
+2026-04-21,Brownie,Postres,1,0,0,2.2,10
+2026-04-21,Tarta de chocolate,Postres,1,0,0,3.0,12
+2026-04-21,Tres leches,Postres,1,0,0,2.75,5
+2026-04-21,Galleta rellena,Postres,1,0,0,1.8,11
+2026-04-22,Sanduche de pollo,Sanduches,2,0,0,3.5,13
+2026-04-22,Sanduche mixto,Sanduches,2,0,0,3.25,11
+2026-04-22,Sanduche de jamón,Sanduches,2,0,0,3.0,9
+2026-04-22,Sanduche de atún,Sanduches,2,0,0,3.75,9
+2026-04-22,Sanduche vegetariano,Sanduches,2,0,0,3.2,8
+2026-04-22,Cheesecake,Postres,2,0,0,2.8,6
+2026-04-22,Brownie,Postres,2,0,0,2.2,9
+2026-04-22,Tarta de chocolate,Postres,2,0,0,3.0,12
+2026-04-22,Tres leches,Postres,2,0,0,2.75,9
+2026-04-22,Galleta rellena,Postres,2,0,0,1.8,12
+2026-04-23,Sanduche de pollo,Sanduches,3,0,0,3.5,12
+2026-04-23,Sanduche mixto,Sanduches,3,0,0,3.25,13
+2026-04-23,Sanduche de jamón,Sanduches,3,0,0,3.0,9
+2026-04-23,Sanduche de atún,Sanduches,3,0,0,3.75,8
+2026-04-23,Sanduche vegetariano,Sanduches,3,0,0,3.2,9
+2026-04-23,Cheesecake,Postres,3,0,0,2.8,7
+2026-04-23,Brownie,Postres,3,0,0,2.2,11
+2026-04-23,Tarta de chocolate,Postres,3,0,0,3.0,10
+2026-04-23,Tres leches,Postres,3,0,0,2.75,2
+2026-04-23,Galleta rellena,Postres,3,0,0,1.8,9
+2026-04-24,Sanduche de pollo,Sanduches,4,0,0,3.5,14
+2026-04-24,Sanduche mixto,Sanduches,4,0,0,3.25,14
+2026-04-24,Sanduche de jamón,Sanduches,4,0,0,3.0,13
+2026-04-24,Sanduche de atún,Sanduches,4,0,0,3.75,7
+2026-04-24,Sanduche vegetariano,Sanduches,4,0,0,3.2,9
+2026-04-24,Cheesecake,Postres,4,0,0,2.8,7
+2026-04-24,Brownie,Postres,4,0,0,2.2,9
+2026-04-24,Tarta de chocolate,Postres,4,0,0,3.0,10
+2026-04-24,Tres leches,Postres,4,0,0,2.75,7
+2026-04-24,Galleta rellena,Postres,4,0,0,1.8,8
+2026-04-25,Sanduche de pollo,Sanduches,5,1,1,3.5,17
+2026-04-25,Sanduche mixto,Sanduches,5,1,1,3.25,15
+2026-04-25,Sanduche de jamón,Sanduches,5,1,1,3.0,9
+2026-04-25,Sanduche de atún,Sanduches,5,1,1,3.75,6
+2026-04-25,Sanduche vegetariano,Sanduches,5,1,1,3.2,4
+2026-04-25,Cheesecake,Postres,5,1,1,2.8,14
+2026-04-25,Brownie,Postres,5,1,1,2.2,13
+2026-04-25,Tarta de chocolate,Postres,5,1,1,3.0,11
+2026-04-25,Tres leches,Postres,5,1,1,2.75,10
+2026-04-25,Galleta rellena,Postres,5,1,1,1.8,13
+2026-04-26,Sanduche de pollo,Sanduches,6,1,0,3.5,13
+2026-04-26,Sanduche mixto,Sanduches,6,1,0,3.25,6
+2026-04-26,Sanduche de jamón,Sanduches,6,1,0,3.0,6
+2026-04-26,Sanduche de atún,Sanduches,6,1,0,3.75,3
+2026-04-26,Sanduche vegetariano,Sanduches,6,1,0,3.2,1
+2026-04-26,Cheesecake,Postres,6,1,0,2.8,11
+2026-04-26,Brownie,Postres,6,1,0,2.2,10
+2026-04-26,Tarta de chocolate,Postres,6,1,0,3.0,11
+2026-04-26,Tres leches,Postres,6,1,0,2.75,8
+2026-04-26,Galleta rellena,Postres,6,1,0,1.8,14
+2026-04-27,Sanduche de pollo,Sanduches,0,0,0,3.5,10
+2026-04-27,Sanduche mixto,Sanduches,0,0,0,3.25,13
+2026-04-27,Sanduche de jamón,Sanduches,0,0,0,3.0,9
+2026-04-27,Sanduche de atún,Sanduches,0,0,0,3.75,10
+2026-04-27,Sanduche vegetariano,Sanduches,0,0,0,3.2,8
+2026-04-27,Cheesecake,Postres,0,0,0,2.8,4
+2026-04-27,Brownie,Postres,0,0,0,2.2,7
+2026-04-27,Tarta de chocolate,Postres,0,0,0,3.0,9
+2026-04-27,Tres leches,Postres,0,0,0,2.75,8
+2026-04-27,Galleta rellena,Postres,0,0,0,1.8,13
