@@ -7,14 +7,42 @@
 ![ML](https://img.shields.io/badge/ML-MLPRegressor-purple)
 ![Status](https://img.shields.io/badge/Status-Functional-success)
 
-> A full-stack academic project that combines **business operations management** with **product-level demand forecasting** in a single application.  
-> Built for a small coffee shop / dessert shop scenario with modules for products, menu, orders, inventory, reports, and machine learning predictions.
+> A full-stack academic project that combines **business operations management** with **product-level demand forecasting** in a single application.
+
+---
+
+## 📚 Table of Contents
+
+- [✨ Project Overview](#-project-overview)
+- [🚀 Why this project matters](#-why-this-project-matters)
+- [🧱 Tech Stack](#-tech-stack)
+- [🏗️ Project Architecture](#️-project-architecture)
+- [📁 What each file/folder does](#-what-each-filefolder-does)
+- [🗄️ Database Architecture](#️-database-architecture-supabase)
+- [🔐 Authentication Flow](#-authentication-flow)
+- [⚙️ Functional Modules](#️-functional-modules)
+- [🤖 Neural Network Module](#-neural-network-module)
+- [🧠 Why we used an MLP](#-why-we-used-an-mlp)
+- [🧪 ML Problem Formulation](#-ml-problem-formulation)
+- [📚 Synthetic Dataset for Forecasting](#-synthetic-dataset-for-forecasting)
+- [🧠 Neural Network Architecture](#-neural-network-architecture)
+- [🧮 Input Features Used by the Model](#-input-features-used-by-the-model)
+- [📏 Evaluation Metrics](#-evaluation-metrics)
+- [🔮 Forecasting Capabilities](#-forecasting-capabilities)
+- [🧭 Application Flow](#-application-flow)
+- [✅ What was achieved](#-what-was-achieved)
+- [🔭 Future Work](#-future-work)
+- [🛠️ Installation](#️-installation)
+- [🔑 Environment Configuration](#-environment-configuration)
+- [▶️ Run the app](#️-run-the-app)
+- [👨‍💻 Authors](#-authors)
+- [📄 Academic Use](#-academic-use)
 
 ---
 
 ## ✨ Project Overview
 
-**Dulce Gestión** is a web application designed to help a small food business manage its daily operations while also supporting planning decisions through predictive analytics.
+**Dulce Gestión** is a web application designed to help a small coffee shop or dessert business manage its daily operations while also supporting planning decisions through predictive analytics.
 
 The system integrates:
 
@@ -107,8 +135,7 @@ Entre-Amigos-Coffee-House/
 │── requirements.txt
 ```
 
-> **Important note:** the application uses **`views/`** as the active page folder to avoid Streamlit’s automatic page navigation.  
-> If `pages/` still exists in the repository, it is usually legacy or unused and can be removed if not needed.
+> **Important:** the application uses **`views/`** as the active folder for the app modules to avoid unwanted automatic navigation behavior from Streamlit.
 
 ---
 
@@ -121,8 +148,6 @@ Stores private credentials such as:
 
 This file should **never** be exposed publicly with real credentials.
 
----
-
 ### `app.py`
 Main entry point of the application.
 
@@ -130,11 +155,9 @@ Responsibilities:
 - initializes Streamlit config
 - initializes session state
 - loads global styles
-- shows login if user is not authenticated
+- shows login if the user is not authenticated
 - renders the custom sidebar
 - routes the user to the correct view
-
----
 
 ### `components/`
 Reusable UI components.
@@ -146,9 +169,7 @@ Builds the custom navigation menu shown on the left side.
 Renders the dashboard title and subtitle.
 
 #### `components/cards.py`
-Defines reusable stat cards for metrics like total products, low stock, daily sales, etc.
-
----
+Defines reusable stat cards for metrics like total products, low stock, daily sales, and more.
 
 ### `utils/`
 Core logic helpers.
@@ -168,11 +189,10 @@ Initializes and protects `st.session_state` values such as:
 - tokens
 
 #### `utils/styles.py`
-Contains the global CSS injected into Streamlit to improve the visual design.
+Contains the global CSS injected into Streamlit to improve visual appearance.
 
 #### `utils/db.py`
-Main database layer.  
-This file centralizes all CRUD and query operations for:
+Main database layer. It centralizes all CRUD and query operations for:
 - products
 - daily menu
 - orders
@@ -192,8 +212,6 @@ Creates a synthetic dataset for **product-level demand prediction**.
 
 #### `utils/product_ml_model.py`
 Main ML module for forecasting units sold **per product**.
-
----
 
 ### `views/`
 Contains each business module as an independent page.
@@ -260,15 +278,11 @@ ML dashboard for:
 - product-level forecasting
 - automatic production recommendations
 
----
-
 ### `data/`
 Stores CSV datasets used for experimentation and forecasting.
 
 - `sales_history.csv` → synthetic daily sales dataset
 - `product_sales_history.csv` → synthetic per-product sales dataset
-
----
 
 ### `models/`
 Stores trained ML artifacts serialized with `joblib`.
@@ -357,8 +371,6 @@ Features:
 - minimum stock alerts
 - active/inactive status
 
----
-
 ### 2. 📅 Daily Menu
 Lets the business select what is available each day.
 
@@ -366,8 +378,6 @@ Why it matters:
 - reflects real daily availability
 - supports dynamic operations
 - allows better short-term planning
-
----
 
 ### 3. 🛒 Orders
 Registers customer purchases.
@@ -386,8 +396,6 @@ Orders also affect:
 - sales reports
 - forecasting support
 
----
-
 ### 4. 🧾 Inventory Control
 Tracks stock movements and supports operational discipline.
 
@@ -397,8 +405,6 @@ Movement types:
 - **ajuste**
 
 When an order is created, stock is reduced automatically and a movement is logged.
-
----
 
 ### 5. 🚚 Deliveries
 Provides status tracking for order fulfillment.
@@ -410,10 +416,6 @@ Useful statuses:
 - delivered
 - canceled
 
-This improves operational monitoring and customer communication.
-
----
-
 ### 6. 📊 Reports
 The reporting module transforms raw operational data into business insight.
 
@@ -424,8 +426,6 @@ Implemented outputs:
 - top-selling products
 - sales history table
 - interactive charts
-
----
 
 ### 7. 💬 Auto Responses
 Generates quick customer messages to improve communication.
@@ -472,7 +472,7 @@ The forecasting task was defined as:
 - **Problem type:** regression
 - **Target variable:** `units_sold`
 
-The model learns from examples where the inputs are known and the expected output (units sold) is also known.
+The model learns from examples where the inputs are known and the expected output is also known.
 
 ---
 
@@ -597,19 +597,6 @@ This means the system can support operational decisions such as:
 
 ---
 
-## 🧠 Recommendation Layer
-
-On top of raw predictions, the system also generates operational recommendations.
-
-Examples:
-- classify demand as **High / Medium / Low**
-- suggest how many units to prepare tomorrow
-- indicate which products should be prioritized
-
-This transforms the model from a purely academic forecasting task into a business support tool.
-
----
-
 ## 🧭 Application Flow
 
 ```text
@@ -640,23 +627,6 @@ This project successfully delivered:
 - a complete neural-network-based forecasting module
 - product-level demand prediction
 - production recommendation support
-
----
-
-## 🎯 Why this project is valuable
-
-This project is not just a CRUD demo.
-
-It combines:
-
-- **software engineering**
-- **database integration**
-- **UI/UX design**
-- **business logic**
-- **machine learning**
-- **decision support**
-
-In other words, it turns a small-shop scenario into a complete digital management and forecasting solution.
 
 ---
 
@@ -709,48 +679,15 @@ streamlit run app.py
 
 ---
 
-## 📌 Recommended usage order
-
-1. login
-2. create products
-3. configure daily menu
-4. register orders
-5. check inventory updates
-6. explore reports
-7. generate synthetic dataset
-8. train forecasting model
-9. inspect predictions and recommendations
-
----
-
-## 📸 Suggested screenshots for presentation
-
-If you want to showcase the project, the best screenshots are:
-
-- dashboard overview
-- products CRUD table
-- reports chart
-- forecasting chart
-- recommendation table
-
----
-
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Andres Basantes**  
+**Rolando Gonzalez**  
 Yachay Tech University  
 School of Mathematical and Computational Sciences
 
 ---
 
-## 📄 License / Academic Use
+## 📄 Academic Use
 
 This repository was developed for academic purposes as part of a university project involving software engineering, business systems, and neural networks.
-
----
-
-## 🌟 Final Pitch
-
-**Dulce Gestión** is a complete academic prototype that demonstrates how a modern web application can unify business operations and neural-network-based forecasting in a practical scenario. It goes beyond data registration by helping a small business understand its activity, monitor sales, control inventory, and anticipate demand.
-
-If you want a project that combines **real application development** with **machine learning value**, this is it.
