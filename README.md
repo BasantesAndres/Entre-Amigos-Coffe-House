@@ -644,40 +644,7 @@ Potential improvements include:
 
 ---
 
-## 🛠️ Installation
 
-```bash
-git clone https://github.com/BasantesAndres/Entre-Amigos-Coffee-House.git
-cd Entre-Amigos-Coffee-House
-pip install -r requirements.txt
-```
-
----
-
-## 🔑 Environment Configuration
-
-Create:
-
-```bash
-.streamlit/secrets.toml
-```
-
-With:
-
-```toml
-SUPABASE_URL = "your_supabase_url"
-SUPABASE_KEY = "your_supabase_key"
-```
-
----
-
-## ▶️ Run the app
-
-```bash
-streamlit run app.py
-```
-
----
 
 ## 👨‍💻 Authors
 
